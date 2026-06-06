@@ -1,6 +1,5 @@
-                                                               # Hi, I'm Abhishek Chaurasia
-
-                                                       ### Data Analyst | Data Science Professional 
+  # Hi, I'm Abhishek Chaurasia
+### Data Analyst | Data Science Professional 
 
 ---
 
