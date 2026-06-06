@@ -1,6 +1,6 @@
 # Hi, I'm Abhishek Chaurasia
 
-### Data Analyst | Data Science Professional | IIT Roorkee Certified
+### Data Analyst | Data Science Professional 
 
 ---
 
@@ -42,4 +42,11 @@ visualization. Adept at building interactive dashboards and translating complex 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-chaurasia-1a99b81b5/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abhishekchaurasia.3012@gmail.com)
+
 
