@@ -9,7 +9,8 @@
 Data Scientist skilled in Python, SQL, and Power BI with experience in machine learning model development, data analysis, and
 visualization. Adept at building interactive dashboards and translating complex datasets into actionable insights. Currently pursuing an Advanced Certification in Data Science and Al conducted by iHUB DivyaSampark at IIT Roorkee in association with Intellipaat, with practical training in AI, ML, and database management.
 
-
+- 🎓 Advanced Certification in Data Science & AI (iHUB IIT Roorkee & Intellipaat)(August 2025 - Till Now)
+- 💼 Systems Engineer at Infosys (Oct 2024 – Feb 2025)
 - 📍 Based in **Bengaluru, India**
 - 💼 Open to **Data Analyst** and **Data Science** roles
 - 🌱 Currently deepening skills in **Generative AI & LLMs**
